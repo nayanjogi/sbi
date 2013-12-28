@@ -1,0 +1,53 @@
+20:04:01: Backup started on Friday October 4, 2013.
+20:04:01: Your time limit is 30 seconds and your memory limit is 256M
+20:04:05: Creating SQL backup of your WordPress core.
+20:04:05: Creating SQL backup of your WordPress plugins.
+20:04:12: Approximately 2% complete.
+20:04:18: Approximately 3% complete.
+20:04:24: Approximately 4% complete.
+20:04:31: Approximately 7% complete.
+Uploaded Files:[{"file":"content-page.php","mtime":1380824755}]
+20:04:37: Approximately 9% complete.
+20:04:44: Approximately 11% complete.
+Uploaded Files:[{"file":"main.css","mtime":1380824430}]
+20:04:55: Approximately 12% complete.
+Uploaded Files:[{"file":"sidebar.php","mtime":1380818281},{"file":"webdimen_sbi-backup-core.sql","mtime":1380897245}]
+20:05:01: Approximately 13% complete.
+Uploaded Files:[{"file":"webdimen_sbi-backup-plugins.sql","mtime":1380897246}]
+20:05:08: Approximately 14% complete.
+20:05:14: Approximately 16% complete.
+20:05:20: Approximately 17% complete.
+20:05:26: Approximately 18% complete.
+20:05:32: Approximately 19% complete.
+20:05:39: Approximately 23% complete.
+20:05:45: Approximately 25% complete.
+20:05:51: Approximately 26% complete.
+20:05:58: Approximately 28% complete.
+20:06:04: Approximately 30% complete.
+20:06:10: Approximately 30% complete.
+20:06:19: Approximately 34% complete.
+20:06:26: Approximately 39% complete.
+20:06:33: Approximately 46% complete.
+Uploaded Files:[{"file":"error_log","mtime":1380876400}]
+20:06:39: Approximately 47% complete.
+20:06:45: Approximately 50% complete.
+20:06:52: Approximately 54% complete.
+20:06:58: Approximately 55% complete.
+20:07:04: Approximately 56% complete.
+20:07:10: Approximately 57% complete.
+20:07:16: Approximately 58% complete.
+20:07:23: Approximately 59% complete.
+20:07:29: Approximately 59% complete.
+20:07:35: Approximately 60% complete.
+20:07:41: Approximately 60% complete.
+20:07:47: Approximately 61% complete.
+20:07:54: Approximately 61% complete.
+20:08:00: Approximately 62% complete.
+20:08:07: Approximately 62% complete.
+20:08:13: Approximately 62% complete.
+20:08:19: Approximately 64% complete.
+20:08:26: Approximately 68% complete.
+20:08:32: Approximately 69% complete.
+20:08:34: Backup complete.
+20:08:34: A total of 2316 files were processed.
+20:08:34: A total of 27MB of memory was used to complete this backup.

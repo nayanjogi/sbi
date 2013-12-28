@@ -1,0 +1,35 @@
+.h3 { font-size:16px;  padding-left:5px; }
+.bullet-1 { list-style:none; margin-bottom:20px; }
+.bullet-1 li { background:url(../images/3.gif) no-repeat left top; background-position:0 6px; padding:4px 19px; margin-left:5px; font-size:12px; text-align:justify; color:#757575; }
+
+.bullet-2 { list-style:none; margin-bottom:20px; }
+.bullet-2 li { background:url(../images/2.png) no-repeat left top; background-position:0 9px; padding:4px 19px; margin-left:5px; font-size:12px; text-align:justify; color:#757575;  }
+
+.content { width:670px; float:left; margin:15px; }
+.content-full { margin:15px; }
+.content p { color:#333; line-height:16px; font-size:12px; padding:0 10px; text-align:justify; }
+.sidebar { float:right; width:165px; margin:15px 0px; }
+.title {   font-size:22px; color:#2174c3; padding:10px 10px; line-height:22px; border-bottom:1px solid #e9e9e9; display:block; margin-bottom:20px; }
+.csv2table-div { }
+.csv2table-table { background:#FFF;}
+.csv2table-table-th {padding:0; vertical-align:top; cursor:pointer; white-space:nowrap; font-size:10px !important; }
+.csv2table-table-td {  font-size:10px !important;  }
+
+
+.team-panel .name { display:block; font-size:18px; color:#000;  padding:10px 0; }
+.team-panel .name span { font-size:16px; color:#666; }
+.team-panel  { border-bottom:1px dashed #e9e9e9;  padding:0px 10px 10px 10px;font-size:12px; line-height:15px; color:#555;  text-align:justify;}
+
+
+.panel { margin-bottom:25px; }
+.panel .img { float:right; border:3px solid #333; margin:15px 15px; align:center }
+.panel .desc { text-indent:25px; width:740px; color:#757575; font-size:12px; line-height:22px; font-weight:normal;text-align: justify }
+.panel .name { text-indent:0px;margin-bottom:10px; display:block; font-size:16px; color:#000; border-bottom:1px dashed #e9e9e9; padding:10px; }
+
+.searchtext { padding:3px; font-size:14px; width:80px;margin-right:16px;margin-top:5px;float:left;margin-bottom:14px;}
+.searchbutton { background:#2174c3; width:80px; padding:4px 15px; display:inline-block; border:1px solid #03C; cursor:pointer;text-decoration: none;color: #FFF; font-weight:bold;}
+.searchbutton:hover { background:#09F; }
+label.error { font-size:10px; color:#F33; padding-left:10px; }
+#content{min-height:450px;}
+
+

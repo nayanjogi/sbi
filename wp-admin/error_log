@@ -1,0 +1,117 @@
+[03-Aug-2013 05:17:01] PHP Warning:  include(nav_list.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/webdimen/public_html/sbi/wp-content/plugins/nav/nav-admin.php on line 33
+[03-Aug-2013 05:17:01] PHP Warning:  include(nav_list.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/webdimen/public_html/sbi/wp-content/plugins/nav/nav-admin.php on line 33
+[03-Aug-2013 05:17:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'nav_list.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/webdimen/public_html/sbi/wp-content/plugins/nav/nav-admin.php on line 33
+[08-Aug-2013 12:04:08] participants-database plugin activated
+[08-Aug-2013 12:10:16] FormElement::format_date: timestamp couldn't be formatted: August 8, 2013
+[08-Aug-2013 12:10:16] FormElement::format_date: timestamp couldn't be formatted: August 8, 2013
+[08-Aug-2013 12:10:16] FormElement::format_date: timestamp couldn't be formatted: August 8, 2013
+[17-Aug-2013 05:23:20] PHP Parse error:  syntax error, unexpected T_GLOBAL in /home/webdimen/public_html/sbi/wp-content/plugins/horizontal-scrolling-announcement/horizontal-scrolling-announcement.php on line 78
+[17-Aug-2013 05:24:20] PHP Parse error:  syntax error, unexpected T_GLOBAL in /home/webdimen/public_html/sbi/wp-content/plugins/horizontal-scrolling-announcement/horizontal-scrolling-announcement.php on line 78
+[17-Aug-2013 05:25:20] PHP Parse error:  syntax error, unexpected T_GLOBAL in /home/webdimen/public_html/sbi/wp-content/plugins/horizontal-scrolling-announcement/horizontal-scrolling-announcement.php on line 78
+[17-Aug-2013 05:26:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/webdimen/public_html/sbi/wp-content/plugins/horizontal-scrolling-announcement/horizontal-scrolling-announcement.php on line 78
+[17-Aug-2013 05:26:43] PHP Fatal error:  Cannot redeclare select() (previously declared in /home/webdimen/public_html/sbi/wp-content/plugins/horizontal-scrolling-announcement/horizontal-scrolling-announcement.php:117) in /home/webdimen/public_html/sbi/wp-content/plugins/nav/nav-function.php on line 73
+[17-Aug-2013 05:32:19] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[17-Aug-2013 05:32:19] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[17-Aug-2013 05:32:19] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[17-Aug-2013 05:32:37] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[17-Aug-2013 05:32:37] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[17-Aug-2013 05:33:12] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[17-Aug-2013 05:33:12] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[17-Aug-2013 05:33:12] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[17-Aug-2013 05:34:07] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[17-Aug-2013 05:34:07] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[17-Aug-2013 05:34:07] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[18-Aug-2013 06:51:30] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 06:51:30] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 06:51:30] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 06:54:44] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 06:54:44] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 06:54:44] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 17:05:14] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 17:05:14] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 17:05:14] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 17:37:03] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[18-Aug-2013 17:37:03] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[18-Aug-2013 17:48:59] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 17:48:59] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 17:48:59] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 17:52:25] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 17:52:25] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[18-Aug-2013 17:52:25] FormElement::format_date: timestamp couldn't be formatted: August 18, 2013
+[19-Aug-2013 16:59:53] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 16:59:53] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 16:59:53] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:01:03] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:01:03] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:01:03] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:17:06] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:17:06] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:17:06] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:18:56] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:18:56] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:18:56] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:23:38] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:23:38] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:23:38] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:54:11] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:54:11] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:54:11] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:54:52] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:54:52] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:54:52] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:55:27] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:55:27] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 17:55:27] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:40:39] FormElement::format_date: timestamp couldn't be formatted: August 20, 2013
+[19-Aug-2013 18:40:39] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:40:39] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:42:19] FormElement::format_date: timestamp couldn't be formatted: August 20, 2013
+[19-Aug-2013 18:42:19] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:42:19] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:44:36] FormElement::format_date: timestamp couldn't be formatted: August 20, 2013
+[19-Aug-2013 18:44:36] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:44:36] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:45:10] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:45:10] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:45:36] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:45:36] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:46:02] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:46:02] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:53:54] FormElement::format_date: timestamp couldn't be formatted: August 20, 2013
+[19-Aug-2013 18:53:54] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:53:54] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:54:39] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:54:39] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:55:54] FormElement::format_date: timestamp couldn't be formatted: August 20, 2013
+[19-Aug-2013 18:55:54] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:55:54] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:56:45] FormElement::format_date: timestamp couldn't be formatted: August 20, 2013
+[19-Aug-2013 18:56:45] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:56:45] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:58:04] FormElement::format_date: timestamp couldn't be formatted: August 20, 2013
+[19-Aug-2013 18:58:04] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:58:04] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:58:59] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[19-Aug-2013 18:58:59] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[19-Aug-2013 18:59:10] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[19-Aug-2013 18:59:10] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[19-Aug-2013 18:59:30] FormElement::format_date: timestamp couldn't be formatted: August 17, 2013
+[19-Aug-2013 18:59:30] FormElement::format_date: timestamp couldn't be formatted: August 19, 2013
+[30-Sep-2013 16:14:04] FormElement::format_date: timestamp couldn't be formatted: September 30, 2013
+[30-Sep-2013 16:14:04] FormElement::format_date: timestamp couldn't be formatted: September 30, 2013
+[05-Oct-2013 04:40:49] FormElement::format_date: timestamp couldn't be formatted: October 5, 2013
+[05-Oct-2013 04:40:49] FormElement::format_date: timestamp couldn't be formatted: October 5, 2013
+[05-Oct-2013 04:49:02] FormElement::format_date: timestamp couldn't be formatted: September 26, 2013
+[05-Oct-2013 04:49:02] FormElement::format_date: timestamp couldn't be formatted: September 26, 2013
+[05-Oct-2013 04:51:08] FormElement::format_date: timestamp couldn't be formatted: September 26, 2013
+[05-Oct-2013 04:51:08] FormElement::format_date: timestamp couldn't be formatted: September 26, 2013
+[05-Oct-2013 04:51:10] FormElement::format_date: timestamp couldn't be formatted: September 26, 2013
+[05-Oct-2013 04:51:10] FormElement::format_date: timestamp couldn't be formatted: September 26, 2013
+[05-Oct-2013 04:51:15] FormElement::format_date: timestamp couldn't be formatted: September 26, 2013
+[05-Oct-2013 04:51:15] FormElement::format_date: timestamp couldn't be formatted: September 26, 2013
+[05-Oct-2013 04:51:20] FormElement::format_date: timestamp couldn't be formatted: September 26, 2013
+[05-Oct-2013 04:51:20] FormElement::format_date: timestamp couldn't be formatted: September 26, 2013
+[14-Dec-2013 08:03:09 UTC] FormElement::format_date: timestamp couldn't be formatted: December 14, 2013
+[14-Dec-2013 08:03:09 UTC] FormElement::format_date: timestamp couldn't be formatted: December 14, 2013
+[14-Dec-2013 08:03:45 UTC] FormElement::format_date: timestamp couldn't be formatted: December 14, 2013
+[14-Dec-2013 08:03:45 UTC] FormElement::format_date: timestamp couldn't be formatted: December 14, 2013

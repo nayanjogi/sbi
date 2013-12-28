@@ -1,0 +1,107 @@
+/* The Preloader in the Slider */
+#iCarousel-preloader {
+	position: absolute;
+	z-index: 1000;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border: #000 1px solid;
+	border-color: rgba(143,179,152,1);
+	padding: 1px;
+	width: 150px;
+	height: 3px;
+}
+#iCarousel-preloader div {
+	float: left;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	height: 3px;
+	background: #8FB398;
+	background: rgba(143,179,152,1);
+	width: 0px;
+}
+
+/* The timer in the Slider */
+#iCarousel-timer {
+	position: absolute;
+	z-index: 1000;
+	border-radius: 5px;
+	cursor: pointer;
+	opacity: 0;
+	filter:alpha(opacity=00);
+	display: none;
+}
+
+#iCarousel-timer div {
+	border-radius: 3px;
+	display:none;
+}
+
+
+#iCarousel-timer div, a.iCarouselNav, #iCarousel-timer, #iCarousel-timer div  {
+	display:none;
+}
+
+
+
+
+.carousel-container {
+	width: 688px;
+	margin:-40px auto 0;
+	overflow: hidden;
+}
+
+#icarousel {
+	width: 220px;
+	height: 281px;
+	position: relative;
+	margin: 20px auto;
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-perspective: 1000px;
+	-moz-perspective: 1000px;
+	-o-perspective: 1000px;
+	-ms-perspective: 1000px;
+	perspective: 1000px;
+}
+
+#icarousel div.slide {
+	border-radius: 4px;
+	border: 5px #000 solid;
+	width: 220px;
+	height: 281px;
+}
+
+/* The Navigation buttons in the Slider */
+a.iCarouselNav {
+	display: block;
+	position: absolute;
+	top: 120px;
+	width: 43px;
+	height: 43px;
+	background: url(../images/arrows.png) no-repeat;
+	z-index: 1000;
+	text-indent: -9999px;
+}
+
+a#iCarouselPrev {
+	left: 10px;
+	background-position: left top;
+}
+
+a#iCarouselPrev:hover {
+	background-position: left bottom;
+}
+
+a#iCarouselNext {
+	right: 10px;
+	background-position: right top;
+}
+
+a#iCarouselNext:hover {
+	background-position: right bottom;
+}
